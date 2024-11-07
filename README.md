@@ -6,5 +6,7 @@ by: Joven Carl Rex P. Biaca
 
 ## Preview
 ![My Image](assets/preview.png)
+
+When image is clicked:
 ![My Image](assets/preview_1.png)
  
